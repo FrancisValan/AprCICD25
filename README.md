@@ -1,2 +1,2 @@
-# AprCICD25
+# aprcicd25
 CICD Training
